@@ -1,22 +1,163 @@
+.Buttons,
+.Buttons:visited {
+    border: 1px solid black;
+    color: #000;
+    padding: 4px;
+    border-radius: 8px;
+    text-decoration: none;
+}
 
-        a,
-        a:visited {
-            border: 1px solid black;
-            color: #000;
-            padding: 4px;
-            border-radius: 8px;
-            text-decoration: none;
-        }
+.Buttons:hover {
+    background-color: #FF00FF;
 
-        a:hover {
-            background-color: #FF00FF;
+}
 
-        }
+#buttons {
+    display: none;
+}
 
-        #buttons {
-            display: none;
-        }
+#toolbar {
+    display: flex;
+}
 
-        #toolbar {
-            display: flex;
-        }
+h1 {
+    border: 1px solid black;
+    color: #000;
+    padding: 4px;
+    border-radius: 8px;
+    text-decoration: none;
+    text-align: center;
+}
+
+#small-rant {
+    border: 1px solid black;
+    color: #000;
+    padding: 4px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+
+#ting {
+    border: 1px solid black;
+    color: #000;
+    border-radius: 8px;
+    text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 10px;
+}
+h2 {
+    border: 1px solid black;
+    color: #000;
+    padding: 4px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+#little-rant {
+    border: 1px solid black;
+    color: #000;
+    padding: 4px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+#cool-guy {
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 1px solid black;
+  color: #000;
+  padding: 4px;
+}
+
+#skibidi {
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 1px solid black;
+    color: #000;
+}
+figcaption {
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 10%;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+  color: #000;
+  }
+#huhh {
+    border-radius: 8px;
+  text-decoration: none;
+  margin: auto;
+width: 50%;
+padding: 10px;
+text-align: center;
+border: 1px solid black;
+  color: #000;
+}
+
+#pluh {
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border: 1px solid black;
+  color: #000;
+}
+
+#the-truth {
+    border-radius: 8px;
+  text-decoration: none;
+  margin: auto;
+width: 50%;
+padding: 10px;
+text-align: center;
+border: 1px solid black;
+color: #000;
+}
+
+#Slinky {
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+

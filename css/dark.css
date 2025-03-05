@@ -1,14 +1,18 @@
-a,
-a:visited {
+
+
+
+
+.Buttons,
+.Buttons:visited {
     border: 1px solid white;
     color: #FFF;
     padding: 4px;
     background-color: black;
-    border-radius: 8px;
+    border-radius: 9px;
     text-decoration: none;
 }
 
-a:hover {
+.Buttons:hover {
     background-color: #FF00FF;
 
 }
@@ -19,9 +23,156 @@ body {
 
 #buttons {
     display: none;
-    
+
 }
 
 #toolbar {
     display: flex;
 }
+
+h1 {
+    border: 1px solid white;
+    color: white;
+    background-color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+
+#small-rant {
+    border: 1px solid white;
+    color: #FFF;
+    background-color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+    
+}
+#ting {
+    border: 1px solid black;
+    color: #FFF;
+    background-color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    padding: 10px;
+}
+
+h2 {
+    border: 1px solid white;
+    color: #FFF;
+    background-color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+#little-rant {
+    border: 1px solid white;
+    color: #FFF;
+    background-color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 50%;
+  padding: 10px;
+  text-align: center;
+}
+
+#cool-guy {
+    border: 1px solid white;
+    color: #FFF;
+    background-color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#skibidi {
+    border: 1px solid white;
+    color: #FFF;
+    background-color: black;
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+figcaption {
+  border: 1px solid white;
+  color: #FFF;
+  background-color: black;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: auto;
+width: 10%;
+padding: 10px;
+text-align: center;
+}
+#huhh {
+  border: 1px solid white;
+  color: #FFF;
+  background-color: black;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: auto;
+width: 50%;
+padding: 10px;
+text-align: center;
+}
+#the-truth {
+  border: 1px solid white;
+  color: #FFF;
+  background-color: black;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: auto;
+width: 50%;
+padding: 10px;
+text-align: center;
+}
+
+#pluh {
+  border: 1px solid white;
+  color: #FFF;
+  background-color: black;
+  border-radius: 8px;
+  text-decoration: none;
+  margin: auto;
+width: 20%;
+padding: 10px;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+#Slinky {
+  
+    border-radius: 8px;
+    text-decoration: none;
+    margin: auto;
+  width: 20%;
+  padding: 10px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+

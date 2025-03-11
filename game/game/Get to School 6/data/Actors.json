@@ -1,8 +1,8 @@
 [
 null,
-{"id":1,"battlerName":"IceSpiceBattle","characterIndex":0,"characterName":"IceSpiceWalk","classId":1,"equips":[1,27,48,3,0],"faceIndex":0,"faceName":"IceSpiceFace","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ice Spice","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature2","classId":9,"equips":[0,0,0,21,0],"faceIndex":0,"faceName":"Nature2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Butterdog","nickname":"B-Dawg","note":"","profile":"The dog with the butter on him."},
-{"id":3,"battlerName":"","characterIndex":1,"characterName":"Nature2","classId":10,"equips":[33,0,48,5,76],"faceIndex":1,"faceName":"Nature2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Willy","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"IceSpiceBattle","characterIndex":0,"characterName":"IceSpiceWalk","classId":1,"equips":[1,27,48,3,0],"faceIndex":0,"faceName":"IceSpiceFace","traits":[],"initialLevel":99,"maxLevel":99,"name":"Ice Spice","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"Nature2","classId":9,"equips":[0,0,0,21,0],"faceIndex":0,"faceName":"Nature2","traits":[],"initialLevel":99,"maxLevel":99,"name":"Butterdog","nickname":"B-Dawg","note":"","profile":"The dog with the butter on him."},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"Nature2","classId":10,"equips":[33,0,48,5,76],"faceIndex":1,"faceName":"Nature2","traits":[],"initialLevel":99,"maxLevel":99,"name":"Willy","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},

@@ -15,7 +15,7 @@ null,
 {"id":13,"expanded":true,"name":"Sword Shop","order":13,"parentId":6,"scrollX":1216.5,"scrollY":686.25,"quick":false},
 {"id":14,"expanded":false,"name":"Armor Shop","order":14,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":false},
 {"id":15,"expanded":true,"name":"spooky","order":15,"parentId":0,"scrollX":1216.5,"scrollY":753.75,"quick":false},
-{"id":16,"expanded":false,"name":"spookycave","order":16,"parentId":15,"scrollX":2700,"scrollY":764.25,"quick":false},
-{"id":17,"expanded":false,"name":"Schoolyard","order":17,"parentId":0,"scrollX":1228.5,"scrollY":753.75,"quick":false},
+{"id":16,"expanded":false,"name":"spookycave","order":16,"parentId":15,"scrollX":1216.5,"scrollY":1112.25,"quick":false},
+{"id":17,"expanded":false,"name":"Schoolyard","order":17,"parentId":0,"scrollX":1216.5,"scrollY":753.75,"quick":false},
 {"id":18,"expanded":false,"name":"lobby","order":18,"parentId":0,"scrollX":1216.5,"scrollY":686.25,"quick":false}
 ]
